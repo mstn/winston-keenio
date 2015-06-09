@@ -16,5 +16,8 @@
   "repository": {
     "url": "https://github.com/mstn/winston-keenio",
     "type": "git"
+  },
+  "devDependencies": {
+    "vows": "^0.8.1"
   }
 }

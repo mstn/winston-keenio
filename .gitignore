@@ -1,2 +1,9 @@
 node_modules
 test/config.json
+npm-debug.log
+.npm
+
+# temporary files generated for meteor integration
+/package.js
+.build*
+versions.json

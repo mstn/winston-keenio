@@ -3,7 +3,7 @@
 var vows = require('vows');
 var assert = require('assert');
 var helpers = require('winston/test/helpers');
-var Keenio = require('../lib/winston-keenio').Keenio;
+var Keenio = require('../lib/winston-keenio');
 
 var client;
 var config;
