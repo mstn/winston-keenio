@@ -1,0 +1,9 @@
+{
+  "transports": {
+    "keenio": {
+      "projectId": "YOUR_PROJECT_ID",
+      "writeKey": "YOUR_KEY",
+      "collection":"TEST_COLLECTION"
+    }
+  }
+}

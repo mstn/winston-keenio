@@ -1,0 +1,20 @@
+{
+  "name": "winston-keenio",
+  "version": "0.0.1",
+  "description": "A winston transport for keen.io",
+  "main": "./lib/winston-keenio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mstn",
+  "license": "MIT",
+  "dependencies": {
+    "json-circular": "0.0.1",
+    "keen-js": "^3.2.4",
+    "util": "^0.10.3"
+  },
+  "repository": {
+    "url": "https://github.com/mstn/winston-keenio",
+    "type": "git"
+  }
+}
