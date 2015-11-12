@@ -4,7 +4,7 @@ var where = 'server';
 // XXX how can I update this list automatically?
 // I could read package.json...
 Npm.depends({
-  'keen-js':'3.2.4',
+  'keen-js':'3.2.5',
   'util':'0.10.3',
   'winston':'1.0.0',
   'json-circular':'0.0.1'
